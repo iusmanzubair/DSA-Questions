@@ -1,3 +1,7 @@
+// Problem Link: http://codeforces.com/contest/231/problem/A
+
+// Solution:
+
 #include <bits/stdc++.h>
 using namespace std;
 
