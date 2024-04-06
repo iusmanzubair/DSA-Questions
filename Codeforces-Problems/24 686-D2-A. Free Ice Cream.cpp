@@ -12,7 +12,7 @@ int main() {
     int count = 0;
     char s;
 
-    for(int i=0; i<n; ++i) {
+    while(n--) {
         cin >> s >> d;
         switch (s) {
         case '-':
